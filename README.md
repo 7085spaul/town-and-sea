@@ -21,4 +21,3 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 
 
-# You have to go to Yopmail.com and search buyer@yopmail.com to get all inbox message of buyer and for seller it is seller@yopmail.com
